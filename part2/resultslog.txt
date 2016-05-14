@@ -1,0 +1,52 @@
+
+============================================
+Doing File Requested = 1  Operation = W
+Starting position: 0
+Block Length: 31
+Status: File was written!
+
+============================================
+Doing File Requested = 2  Operation = W
+Starting position: 31
+Block Length: 16
+Status: File was written!
+
+============================================
+Doing File Requested = 1  Operation = W
+Starting position: 31
+Block Length: 31
+Status: File was written!
+
+============================================
+Doing File Requested = 4  Operation = R
+Starting position: 47
+Block Length: 35
+Status: File was read!
+File Number: 4
+File Start Block: 47
+File Blocks Length: 35
+
+============================================
+Doing File Requested = 5  Operation = W
+Starting position: 82
+Block Length: 37
+Status: File was written!
+
+====================================================================================================
+Contiguous Block Allocation Memory:
+Blocks 1 to 100
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4 4 4
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+
+Blocks 101 to 200
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Blocks 201 to 300
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Blocks 301 to 400
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
